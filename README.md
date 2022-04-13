@@ -17,8 +17,8 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 
 ## Week 5 (April 11th)
 ### Notebooks
-- [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/11GHEFTywu_uFWFjtecf-mC5PeeXHcEVM?usp=sharing)
 - [word2vec Part I](https://colab.research.google.com/drive/1CIAe8e36GTvjw_mytI1_mlFJPqQZU8qB?usp=sharing)
+- [word2vec Part II](https://colab.research.google.com/drive/1_Hht2TlvDT5QFZ-XGUX1LHPJF3A0JUPO)
 - [Classification](https://colab.research.google.com/drive/1KKJ2kFGXNYiqa8MDtTsLDTJ6cKXCdlJN?usp=sharing)
 - [Dimensionality Reduction](https://colab.research.google.com/drive/1Q18c1ngdkaGAe4qnAnPJ6qv6tZR7AtSy#scrollTo=DUXVl4y74Jzm)
 - [Topic Modelling](https://colab.research.google.com/drive/1tnH3a_DtbpMlXUr_X09ezOL2c4ekoNfx#scrollTo=m5KWA9b0FShn)
