@@ -21,6 +21,7 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [word2vec Part II](https://colab.research.google.com/drive/1_Hht2TlvDT5QFZ-XGUX1LHPJF3A0JUPO)
 - [Classification](https://colab.research.google.com/drive/1KKJ2kFGXNYiqa8MDtTsLDTJ6cKXCdlJN?usp=sharing)
 - [Dimensionality Reduction](https://colab.research.google.com/drive/1Q18c1ngdkaGAe4qnAnPJ6qv6tZR7AtSy#scrollTo=DUXVl4y74Jzm)
+- [SVD Example](https://colab.research.google.com/drive/13ZpbJxOoLWkQV16s9Au0vqx3RQNDjQe5?usp=sharing)
 - [Topic Modelling](https://colab.research.google.com/drive/1tnH3a_DtbpMlXUr_X09ezOL2c4ekoNfx#scrollTo=m5KWA9b0FShn)
 - [Toy Torch RNN Example](https://colab.research.google.com/drive/1sZOuotJLZ8ENkZ_EB8BZXoCmS7svnvj3?usp=sharing)
 - [Using RNNs and LSTMs](https://colab.research.google.com/drive/1G6bxy1OlHPeVo6zAs8TxvN5du9PHhZQf?usp=sharing)
