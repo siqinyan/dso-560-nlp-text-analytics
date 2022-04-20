@@ -17,7 +17,8 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 
 ## Week 6 (April 19th)
 ### Notebooks
-- 
+- [LSTMs and Attention Models in Keras](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc)
+- [Basic Self Attention](https://colab.research.google.com/drive/1VKcVEULBPYQ42uwMCcNzczmsGXoSGZt1?usp=sharing)
 - [Understanding Positional Encodings](https://colab.research.google.com/drive/1P1-SDViNp3NFVQ9Z6NtDIrSjBH7pVCTP?usp=sharing)
 - [Classification](https://colab.research.google.com/drive/1KKJ2kFGXNYiqa8MDtTsLDTJ6cKXCdlJN?usp=sharing)
 - [Toy Torch RNN Example](https://colab.research.google.com/drive/1sZOuotJLZ8ENkZ_EB8BZXoCmS7svnvj3?usp=sharing)
