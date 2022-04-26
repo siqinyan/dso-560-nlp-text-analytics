@@ -20,6 +20,7 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 
 ## Week 7 (April 26th)
 ### Notebooks
+- [Text Classification and Feature Extraction with Huggingface](https://colab.research.google.com/drive/1ocuTNFI70wBu5KKCahtZmkXDWqaphlQY?usp=sharing)
 - [BERT and Transformers Presentation](https://docs.google.com/presentation/d/1tg9jAlMXk5YH_yjxYg4F128NcZx1-5FVNZKo0Y6GYJU/edit#slide=id.g1256ad3e9e5_0_10)
 - [Natural Language Generation Presentation](https://docs.google.com/presentation/d/16ueixjMo50pvSMCcLlOCBMmoJEJ-WPUKaV8XXEFW2qw/edit#slide=id.g122664afd90_0_89)
 - [Dali + Clip](https://colab.research.google.com/drive/1Q-TbYvASMPRMXCOQjkxxf72CXYjR_8Vp?usp=sharing)
