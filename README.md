@@ -5,6 +5,9 @@ We will be using Slack workspaces for most of our course communications, includi
 Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
 ## Lecture Recordings
+* [Week 6 Part I](https://usc.zoom.us/rec/share/FkQ3aOKJ2ANY7dG6qpRywO2IwhW7Kmz0KVZpC9y_VajS-17PObwBx-Z848fWEOBZ.1Nodz6fOXOEPgkTk?startTime=1650417921000)
+* [Week 6 Part II](https://usc.zoom.us/rec/share/FkQ3aOKJ2ANY7dG6qpRywO2IwhW7Kmz0KVZpC9y_VajS-17PObwBx-Z848fWEOBZ.1Nodz6fOXOEPgkTk?startTime=1650427335000)
+* [Week 5](https://usc.zoom.us/rec/share/FRRbxbruCPnQy_nFL-Rav8GgCRBtuA84R2D3ubvGljFuVKiBll7J3042MPK7fHbz.FuZCwIQL_2qDUM_d)
 * [Week 4](https://usc.zoom.us/rec/share/FE4QW2WEFjaVjMu2nX28r2ZsCPBzuP1vMe-zjrNjer4wI6gew4Nh6I2sTxMAODtX.AvfJKTLJXZ9LBKSN?startTime=1649208421000)
 * [Week 3](https://usc.zoom.us/rec/share/pPVNZN0WvOjemQQTksSryQdjfud8K9A07n1kTrETM3vUhY2TuSmtSZllzETEo-lv.Ttq6RSnJl_LYPMx4?startTime=1648603737000)
 * [Week 2](https://usc.zoom.us/rec/share/dJdXUo2GCjDrkI-DmEoFS7VVcTdtLFhmxgeslB-PGQaKDh0v0npBvMxrkeuWl06e.3-BBKkhmmMnb4AfG?startTime=1647999047000)
@@ -14,6 +17,10 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
+
+## Week 7 (April 26th)
+### Notebooks
+- [BERT](https://docs.google.com/presentation/d/1tg9jAlMXk5YH_yjxYg4F128NcZx1-5FVNZKo0Y6GYJU/edit#slide=id.g1256ad3e9e5_0_10)
 
 ## Week 6 (April 19th)
 ### Notebooks
