@@ -20,7 +20,9 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 
 ## Week 7 (April 26th)
 ### Notebooks
-- [BERT](https://docs.google.com/presentation/d/1tg9jAlMXk5YH_yjxYg4F128NcZx1-5FVNZKo0Y6GYJU/edit#slide=id.g1256ad3e9e5_0_10)
+- [BERT and Transformers](https://docs.google.com/presentation/d/1tg9jAlMXk5YH_yjxYg4F128NcZx1-5FVNZKo0Y6GYJU/edit#slide=id.g1256ad3e9e5_0_10)
+- [Dali + Clip](https://colab.research.google.com/drive/1Q-TbYvASMPRMXCOQjkxxf72CXYjR_8Vp?usp=sharing)
+- [GPT-2](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce)
 
 ## Week 6 (April 19th)
 ### Notebooks
