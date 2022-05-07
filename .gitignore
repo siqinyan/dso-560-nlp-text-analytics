@@ -128,3 +128,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Personalized
+# XMind
+#.xmind
+# ref
+Final_Review_BING.pdf
+datasets/glove.6B.100d.txt
