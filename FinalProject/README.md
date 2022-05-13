@@ -10,12 +10,17 @@ To extract information from these reviews and conclude as their sentiment for ga
 With trained models, we could then conduct user preferences analysis and generate actionable insights accordingly to stakeholders.
 
 ## Sentiment Predection
-We first built models on *notebooks* for debugging. [BOW models](https://usc.zoom.us/rec/share/WkQz2xhXt9FLfdW91XY_lZJu1fjyVvwfpZJ8u7Up0WeIPKuULlvNcDf4pdVKql6Z.aC_H890ztXp8imgk?startTime=1646792734000)
-[Sequential models](https://usc.zoom.us/rec/share/WkQz2xhXt9FLfdW91XY_lZJu1fjyVvwfpZJ8u7Up0WeIPKuULlvNcDf4pdVKql6Z.aC_H890ztXp8imgk?startTime=1646792734000)
+We first built models on *notebooks* for debugging. 
+
+[BOW models](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/3_modeling_BOW.ipynb)
+
+[Sequential models](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/3_modeling_sequential.ipynb)
 
 Then, in order to scalably exploring model settings, we developped the *script*().
-Sample running: ` python modeling.py -m lstm -des test1`
+Sample running: 
+` python modeling.py -m lstm -des test1`
 
-And we tested transformer().
+We also tested [transformer](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/4_model_comparison.ipynb) on our dataset.
 
 ## User Preferences Analysis
+We conducted [User Preferences Analysis](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/5_user%20preferences.ipynb) to identify features for users' likes/dislikes.
