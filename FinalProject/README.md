@@ -11,9 +11,7 @@ With trained models, we could then conduct user preferences analysis and generat
 
 ## Sentiment Predection
 We first built models on notebooks for debugging:
-
-[BOW models](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/3_modeling_BOW.ipynb)
-
+[BOW models](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/3_modeling_BOW.ipynb), 
 [Sequential models](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/3_modeling_sequential.ipynb)
 
 Then, in order to scalably exploring model settings, we developped the [script](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/modeling.py).
@@ -26,5 +24,5 @@ We also tested [Transformer](https://github.com/siqinyan/dso-560-nlp-text-analyt
 We conducted [User Preferences Analysis](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/5_user%20preferences.ipynb) to identify features for users' likes/dislikes.
 
 ## Project Presentation
-[PDF](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/Project_Slides.pdf)
+[PDF](https://github.com/siqinyan/dso-560-nlp-text-analytics/blob/main/FinalProject/Project_Slides.pdf),
 [Google Slides](https://docs.google.com/presentation/d/14p0jBNGSEDaKNVXczeKHh_m29ZCzIqEqRNUd04M13jw/edit#slide=id.g11c12747495_1_525)
